@@ -1,0 +1,8 @@
+name: win_ad_smoke
+title: InSpec Profile to validate Active Directory is working
+maintainer: John Snow
+copyright: John Snow
+copyright_email: jsnow@chef.io
+license: All Rights Reserved
+summary: An InSpec Compliance Profile for Windows Active Directory
+version: 0.1.0
